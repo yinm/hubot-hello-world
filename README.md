@@ -2,7 +2,7 @@
 
 A Hubot script that responds 'World!'
 
-See [`src/hello-world.coffee`](src/hello-world.coffee) for full documentation.
+See [`src/hello-world.js`](src/hello-world.js) for full documentation.
 
 ## Installation
 
