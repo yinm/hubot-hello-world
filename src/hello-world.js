@@ -10,8 +10,8 @@
 // Author:
 //   bouzuya <m@bouzuya.net>
 
-module.exports = (robot) => {
-  robot.respond(/hello/i, (msg) => {
+module.exports = function(robot) {
+  robot.respond(/hello/i, function(msg) {
     msg.send('だおーん');
   });
 };
